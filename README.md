@@ -1,5 +1,6 @@
 # js-pwdgen-wannabe
-Chiedi all'utente il suo nome,
-poi chiedi il suo cognome,
-poi chiedi il suo colore preferito
-Infine scrivi sulla pagina nomecognomecolorepreferito114 (modificato) 
+
+Descrizione:
+Creazione di un alert che chiede all'utente d'inserire prima il suo nome,
+poi il suo cognome, poi il suo colore preferito.
+Infine genera sulla pagina nomecognomecolorepreferito114 (modificato).
